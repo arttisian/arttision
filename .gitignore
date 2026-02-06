@@ -1,0 +1,6 @@
+node_modules/
+arttisian.db
+.env
+.DS_Store
+package-lock.json
+test_api.js
