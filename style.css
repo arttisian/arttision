@@ -547,4 +547,10 @@ footer {
     .hero h1 {
         font-size: 3rem;
     }
+
+}
+.cta-section .cta-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
