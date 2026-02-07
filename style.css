@@ -549,9 +549,10 @@ footer {
     }
 
 }
-.cta-section .cta-button {
-    display: inline-block;   /* prevents full width */
-    margin: 30px auto 0;     /* centers horizontally */
-    width: auto;             /* force natural size */
-    max-width: fit-content;  /* safety */
+.cta-center {
+    display: flex;
+    justify-content: center; /* true horizontal center */
+    margin-top: 30px;
 }
+
+
